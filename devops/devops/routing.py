@@ -4,5 +4,4 @@ application = ProtocolTypeRouter({
     # Empty for now (http->django views is added by default)
 })
 
-ASGI_APPLICATION = "devops.routing.application"
 
